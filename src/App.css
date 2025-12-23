@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.parisienne-regular {
+  font-family: "Parisienne", cursive;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.fanwood-text-regular {
+  font-family: "Fanwood Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fanwood-text-regular-italic {
+  font-family: "Fanwood Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.fresca-regular {
+  font-family: "Fresca", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
